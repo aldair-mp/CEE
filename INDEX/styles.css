@@ -1,0 +1,125 @@
+/* General*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 0%;
+    background-color: #f9f9f9;
+    color: black;
+}
+/*Cabesera*/
+header{
+    background-color: #0979bc;
+    color: white;
+    padding: 12px;
+    text-align: center;
+}
+/*navegacion*/
+nav{
+    background-color: #0979bc;
+    padding: 0px;
+    text-align: center;
+}
+nav ul{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    
+}
+nav li{
+    display: inline;
+    margin-right: 15px;
+
+}
+nav a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+
+}
+nav a:hover{
+    text-decoration: underline;
+    
+}
+/*main*/
+main {
+    padding: 20px;
+}
+
+article{
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+
+}
+
+
+section{
+    background-color: #e8f4f8;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+
+}
+.section-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.section-menu li {
+    display: inline;
+    margin-right: 15px;
+}
+
+.section-menu a {
+    color: #0979bc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.section-menu a:hover {
+    text-decoration: underline;
+}
+
+aside{
+    background-color: #f0f0f0;
+    padding: 15px;
+    margin: 20px;
+    border-left: 5px solid #ccc;
+
+}
+
+/*piea de pagina*/
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+
+/*
+#384152
+body {
+
+
+   font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #0a199ed0;
+    text-align: center;
+
+}
+p{
+    color: rgb(20, 20, 92);
+    text-align: center;
+}
+h2{
+    color: aqua;
+    text-align: center;
+}
